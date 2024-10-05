@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>style/Combinear.qss</file>
+        <file>image/arrow.png</file>
+    </qresource>
+</RCC>
