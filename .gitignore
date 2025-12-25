@@ -1,0 +1,8 @@
+# Qt Creator & Project specific
+*.pro.user
+*.pro.user.*
+*.bak
+*.orig
+
+# Build directories (Standard Qt Creator naming)
+build-*/
